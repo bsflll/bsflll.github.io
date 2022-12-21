@@ -1,7 +1,7 @@
 ---
 layout: page
 title: APP
-description: Imperfect: A career and educational resource forum for Migrant Children
+description: Imperfect-A career and educational resource forum for Migrant Children
 img: assets/img/3.jpg
 redirect: https://www.youtube.com/watch?v=pw0CfEQn29I&list=PLiWjiaTze9FJGeBrjZdRtqNpHcQcERG55&index=4
 importance: 3
