@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Intersection/Stem Girls Alliance
-description: Spread the voice of Girls in STEM, including 1000+ members globally
+title: NGO
+description: Intersection/Stem Girls Alliance Spread the voice of Girls in STEM, 1000+ members globally
 img: assets/img/7.jpg
 redirect: https://stemgirlsalliance.carrd.co/
-importance: 3
+importance: 2
 category: work
 ---
 
