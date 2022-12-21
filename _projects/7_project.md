@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Intersection/Stem Girls Alliance
-description: Spread the voice of Girls in STEM, including 1000+ members globally
-img: assets/img/7.jpg
-redirect: https://stemgirlsalliance.carrd.co/
+title: project 4
+description: another without an image
+img:
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
