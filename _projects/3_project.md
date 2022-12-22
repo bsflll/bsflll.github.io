@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Report
-description: Social report, Women in Henan Floods, Support the need of menstrual products supply in natural disaster
+description: Women in Henan Floods, Support the need of menstrual supply in natural disaster
 img: assets/img/7.jpg
 redirect: /assets/pdf/YOC-final report.pdf
 importance: 4

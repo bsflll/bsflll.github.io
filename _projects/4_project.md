@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Book
-description: a project with a background image
+description: Fields-The book about traveling revelation in Henan, Alaska, and Malta
 img: assets/img/12.jpg
 importance: 1
 category: work
